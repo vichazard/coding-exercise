@@ -1,3 +1,14 @@
+# Coding Exercise
+
+Welcome to the Earmark coding exercise! This exercise is designed to test your ability to write clean, maintainable
+code. We're looking for code that is well-organized, easy to read, and easy to understand. We're also looking for tests
+that are thorough and well-organized.
+
+## Domain
+
+The domain for this exercise is a podcast app that allows users to listen to podcasts and earn CPE (Continuing
+Professional Education) credits. The entities can be found inside the database schema.
+
 ## Dev Setup
 
 Follow the steps here to create your Supabase backend from the staging environment.
