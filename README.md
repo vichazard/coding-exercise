@@ -9,6 +9,15 @@ that are thorough and well-organized.
 The domain for this exercise is a podcast app that allows users to listen to podcasts and earn CPE (Continuing
 Professional Education) credits. The entities can be found inside the database schema.
 
+## Instructions  
+
+1. **Fork the Repository** – Create a personal fork of this repository in your GitHub account.  
+2. **Complete the Tasks** – Refer to the three issues in this repository and implement the required solutions.  
+3. **Submit Your Work** – Once all tasks are completed, share a link to your forked repository with us for review.  
+4. **Repository Deletion** – You will be required to delete your repository after we complete our evaluation.  
+
+Let us know if you have any questions. Good luck! 🚀  
+
 ## Dev Setup
 
 Follow the steps here to create your Supabase backend from the staging environment.
