@@ -12,7 +12,7 @@ Professional Education) credits. The entities can be found inside the database s
 ## Instructions  
 
 1. **Fork the Repository** – Create a personal fork of this repository in your GitHub account.  
-2. **Complete the Tasks** – Refer to the three issues in this repository and implement the required solutions.  
+2. **Complete the Tasks** – Refer to the [three issues in this repository](https://github.com/EarmarkCPE/coding-exercise/issues) and implement the required solutions.  
 3. **Submit Your Work** – Once all tasks are completed, share a link to your forked repository with us for review.  
 4. **Repository Deletion** – You will be required to delete your repository after we complete our evaluation.  
 
